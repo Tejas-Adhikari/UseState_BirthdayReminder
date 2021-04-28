@@ -89,7 +89,7 @@ For more instructions on Installing the above, This ['Youtube-video'](https://ww
 ## Usage
 After executing "npm start" following interface will load in the browser.
 1. 5 Birthdays displayed\
-   ![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
+   ![Picture1](https://github.com/Tejas-Adhikari/UseState_BirthdayReminder/blob/main/images/Picture1.PNG?raw=true)
 2. Remove any one person and the title will get updated to "4 birthdays today".\
    ![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
 3. Remove all birthday after clicking on "Clear All", the title will display "0 birthdays today"\
