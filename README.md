@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![picture-5](https://user-images.githubusercontent.com/80888228/113479944-646d3b80-94af-11eb-99cd-2ad0a3257176.PNG)
+![picture-5](https://github.com/Tejas-Adhikari/UseState_BirthdayReminder/blob/main/images/Picture1.PNG?raw=true)
 
 useState is a Hook that allows you to have state variables in functional components. You pass the initial state to this function and it returns a variable with the current state value (not necessarily the initial state) and another function to update this value. For more information : https://reactjs.org/docs/hooks-state.html
 
@@ -91,9 +91,9 @@ After executing "npm start" following interface will load in the browser.
 1. 5 Birthdays displayed\
    ![Picture1](https://github.com/Tejas-Adhikari/UseState_BirthdayReminder/blob/main/images/Picture1.PNG?raw=true)
 2. Remove any one person and the title will get updated to "4 birthdays today".\
-   ![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
+   ![Picture2](https://github.com/Tejas-Adhikari/UseState_BirthdayReminder/blob/main/images/Picture2.PNG?raw=true)
 3. Remove all birthday after clicking on "Clear All", the title will display "0 birthdays today"\
-   ![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
+   ![Picture3](https://github.com/Tejas-Adhikari/UseState_BirthdayReminder/blob/main/images/Picture3.PNG?raw=true)
 
 
 <!-- CONTACT -->
