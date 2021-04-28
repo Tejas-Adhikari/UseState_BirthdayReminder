@@ -49,7 +49,7 @@ useState is a Hook that allows you to have state variables in functional compone
 
 :red_circle: Visual studio code\
 :red_circle: Node js\
-:red_circle: Any browser(Chrome recommended)\
+:red_circle: Any browser(Chrome recommended)
 
 <!-- GETTING STARTED -->
 
