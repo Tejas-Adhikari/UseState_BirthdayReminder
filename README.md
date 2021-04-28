@@ -4,12 +4,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Text Recognition</h3>
+  <h3 align="center">Birthday Reminder</h3>
 
   <p align="center">
-    Text-Recognition is an android application which helps the user to extract text from images. :bowtie:
+    Birthday-Reminder is a UseState hook example from React. :bowtie:
     <br />
-    <a href="https://cloud.google.com/vision/docs/ocr#vision_text_detection-java"><strong>Explore the docs »</strong></a>
+    <a href="https://reactjs.org/docs/hooks-state.html"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -43,28 +43,13 @@
 
 ![picture-5](https://user-images.githubusercontent.com/80888228/113479944-646d3b80-94af-11eb-99cd-2ad0a3257176.PNG)
 
-Text Recognition Android App Project is a native android application. It can be used to extract text from the image. Select any image from gallery or capture the image via camera :camera: and extract the text from it. Additionally, the extracted text can also be used for TextToSpeech integration. This project can also be termed as OCR (Optimal character recognition). The system will have modules, namely:
-
-:point_right: Welcome page :\
-Welcome page with lottie json file animation
-
-:point_right: Text recognition home page :\
-Where the user will attempt to select any image from gallery or capture the image via camera.
-
-:point_right: Image preview :\
-In this section user will find the selected image preview on the screen.
-
-:point_right: Text recognized :\
-In this section user will get the extracted text or text recognized from the image selected.
-
-:point_right: TextToSpeech integration :\
-The user can also listen to the extracted text or text recognized from the image selected.
+useState is a Hook that allows you to have state variables in functional components. You pass the initial state to this function and it returns a variable with the current state value (not necessarily the initial state) and another function to update this value. For more information : https://reactjs.org/docs/hooks-state.html
 
 ### Built With
 
-:red_circle: Android Studio (Core Java)\
-:red_circle: XML\
-:red_circle: Lottie Files (Json file)\
+:red_circle: Visual studio code\
+:red_circle: Node js\
+:red_circle: Any browser(Chrome recommended)\
 
 <!-- GETTING STARTED -->
 
@@ -79,17 +64,25 @@ Software requirements:
 • RAM recommended is 8GB.\
 • Internet Connection.\
 • Works with both 32bit and 64bit Operating System.
+• Updated browser(Chrome/Firefox)
 
-:large_blue_diamond: ['Java JDK'](https://www.oracle.com/in/java/technologies/javase-downloads.html)\
-:large_blue_diamond: ['Android-Studio'](https://developer.android.com/studio)
+:large_blue_diamond: ['Visual studio code'](https://code.visualstudio.com/download)\
+:large_blue_diamond: ['Node JS'](https://nodejs.org/en/)\
+:large_blue_diamond: ['Chrome'](https://www.google.com/intl/en_in/chrome/)
+                        OR
+ ['Firefox'](https://www.mozilla.org/en-US/firefox/new/)
 
-For more instructions on Installing the above, This ['Youtube-video'](https://www.youtube.com/watch?v=0zx_eFyHRU0&ab_channel=ProgrammingKnowledge) might be helpful.
+
+For more instructions on Installing the above, This ['Youtube-video'](https://www.youtube.com/watch?v=IbWXHfz91_Y&ab_channel=HongLy) might be helpful.
 
 ### Installation
 
 1. On GitHub, navigate to the main page of the repository. Above the list of files, click Code. Clone or Download the zip file of the entire project.
-2. Extract the zip file and Open it in Android studio
-3. Run using AVD Manager in Android Studio or Build APK to run the application in android studio.(If you're facing any difficulties to get the .apk file, you can download the apk from the above ['application apk'](https://github.com/Tejas-Adhikari/Text-Recognition/tree/main/application%20apk) folder)
+2. Extract the zip file and Open it in Visual studio code.
+3. Run using the terminal in Visual studio.
+4. Open terminal from menu bar and open "New terminal".
+5. Type "npm install" and wait for the command to execute.
+6. After executing the first command, Type "npm start" and the project will run.
 
 <!-- USAGE EXAMPLES -->
 
