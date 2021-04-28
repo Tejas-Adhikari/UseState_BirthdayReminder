@@ -82,20 +82,19 @@ For more instructions on Installing the above, This ['Youtube-video'](https://ww
 3. Run using the terminal in Visual studio.
 4. Open terminal from menu bar and open "New terminal".
 5. Type "npm install" and wait for the command to execute.
-6. After executing the first command, Type "npm start" and the project will run.
+6. After executing the first command, Type "npm start" and the project will run in the browser.
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
-1. At first Add image\
+After executing "npm start" following interface will load in the browser.
+1. 5 Birthdays displayed\
    ![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
-2. Image captured through camera\
+2. Remove any one person and the title will get updated to "4 birthdays today".\
    ![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
-3. Crop the image\
+3. Remove all birthday after clicking on "Clear All", the title will display "0 birthdays today"\
    ![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
-4. Extracted text with speech integration and Image preview below.\
-   ![Picture4](https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png)
+
 
 <!-- CONTACT -->
 
