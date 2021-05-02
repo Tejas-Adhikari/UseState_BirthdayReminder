@@ -104,7 +104,7 @@ Name - Tejas Adhikari\
 Email - tejas.adhikari@somaiya.edu / adhikari.tejas3@gmail.com\
 LinkedIN Profile- [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/Tejas-Adhikari/Text-Recognition/](https://github.com/Tejas-Adhikari/Text-Recognition)
+Project Link: [https://github.com/Tejas-Adhikari/Text-Recognition/]https://github.com/Tejas-Adhikari/UseState_BirthdayReminder.git)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tejas-adhikari-4ba530168/
