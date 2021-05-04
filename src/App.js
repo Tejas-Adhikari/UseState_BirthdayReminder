@@ -1,12 +1,18 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import data from "./data";
 import List from "./List";
+
 function App() {
   const [people, setPeople] = useState(data);
+  useEffect(() => {
+    document.title = `Today ${people.length} Birthday`;
+  });
+
   const removeItem = (id) => {
     let newPeople = people.filter((person) => person.id !== id);
     setPeople(newPeople);
   };
+
   return (
     <main>
       <section className="container">
