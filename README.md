@@ -7,7 +7,7 @@
   <h3 align="center">Birthday Reminder</h3>
 
   <p align="center">
-    Birthday-Reminder is a UseState hook example from React. :bowtie:
+    Birthday-Reminder is a UseState and UseEffect hook example from React. :bowtie:
     <br />
     <a href="https://reactjs.org/docs/hooks-state.html"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,6 +44,9 @@
 ![picture-5](https://github.com/Tejas-Adhikari/UseState_BirthdayReminder/blob/main/images/Picture1.PNG?raw=true)
 
 useState is a Hook that allows you to have state variables in functional components. You pass the initial state to this function and it returns a variable with the current state value (not necessarily the initial state) and another function to update this value. For more information : https://reactjs.org/docs/hooks-state.html
+
+A functional React component uses props and/or state to calculate the output. If the functional component makes calculations that don’t target the output value, then these calculations are named side-effects. For more information : https://reactjs.org/docs/hooks-effect.html
+
 
 ### Built With
 
